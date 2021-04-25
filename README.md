@@ -80,14 +80,17 @@ Pada field ini, atribut type diubah menadi <i>tel</i>.
 
 # **<i>Tampilan ketika ada field yang tidak diisi akan muncul peringatan ketika ingin Daftar</i>**
 
-![13 Tampilan Ketika Field Tidak Diisi](https://user-images.githubusercontent.com/56438848/115993560-96307880-a5fd-11eb-8ed7-c052f1b2384f.JPG)
+![13 Tampilan Ketika Field Tidak Diisi](https://user-images.githubusercontent.com/56438848/115993679-0dfea300-a5fe-11eb-9e5e-9ee5f53ff81a.JPG)
 
 
 </br>
 </br>
 <b><i>Jangan lupa untuk selalu menyimpan setiap perubahan yang dilakukan.</i></b>
 </br>
+</br>
 <b><i>Semua file HTML dan CSS disertakan di atas, jika kurang jelas pada gambar, bisa lihat langsung pada kode untuk menyocokkan.</i></b>
+</br>
 </br>
 <b><i>Masih banyak kekurangan pada praktek kali ini, harap dimaklumi.</i></b>
 </br>
+
